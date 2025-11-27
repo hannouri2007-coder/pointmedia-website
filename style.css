@@ -91,7 +91,7 @@ body {
 }
 
 /* Sections */
-.section {
+.section { padding: 100px 0; text-align: center; }, add: background: linear-gradient(to bottom, #0a0a0a 0%, #111 100%);
     padding: 100px 0;
     text-align: center;
 }
